@@ -1,3 +1,9 @@
+---
+name: Feature request
+about: Add new features
+
+---
+
 <!-- CLICK "Preview" FOR INSTRUCTIONS IN A MORE READABLE FORMAT -->
 
 ## Prerequisites
