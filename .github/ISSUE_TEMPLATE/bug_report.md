@@ -1,24 +1,35 @@
-<!-- CLICK "Preview" FOR INSTRUCTIONS IN A MORE READABLE FORMAT -->
+---
+name: Bug report
+about: Create a report to help us improve
 
-## Prerequisites
+---
 
-We do our best to reply to all the issues on time. If you will follow the given guidelines, the turn around time will be faster.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-- Lots of raised issues are directly not bugs but instead are design decisions taken by us.
-- Make use of our [forum](https://forum.adonisjs.com/), or [discord server](https://discord.me/adonisjs), if you are not sure that you are reporting a bug.
-- Ensure the issue isn't already reported.
-- Ensure you are reporting the bug in the correct repo.
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-*Delete the above section and the instructions in the sections below before submitting*
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Package version
-<!-- YOUR ANSWER -->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## Node.js and npm version
-<!-- YOUR ANSWER -->
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## Sample Code (to reproduce the issue)
-<!-- YOUR ANSWER -->
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-## BONUS (a sample repo to reproduce the issue)
-<!-- YOUR ANSWER -->
+**Additional context**
+Add any other context about the problem here.
